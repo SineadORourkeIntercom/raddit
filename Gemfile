@@ -47,3 +47,5 @@ end
 
 gem 'devise', '~> 4.4', '>= 4.4.1'
 
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+
